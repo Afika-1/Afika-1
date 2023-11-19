@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Afika Shwashwa
 - 👀 I’m interested in Software development, mainly mobile apps development
-- 🌱 I’m currently learning React.Js, Node.js, MongoDb, 
+- 🌱 I’m currently learning React.Js, React Native, Node.js, MongoDb, 
 - 💞️ I’m looking to collaborate on Web development, life changing and future focused applications.
 - 📫 How to reach me email afikashwashwa@gmail.com
 
