@@ -1,8 +1,8 @@
-[![MasterHead](https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://afika-shwashwa.web.app/)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://afika-shwashwa.web.app/)
 <h1 align="center">Hi 👋, I'm Afika Shwashwa</h1>
 <h3 align="center">A passionate frontend developer, mainly interested in mobile apps development</h3>
 
-<p align="left"> <img src="https://gifdb.com/images/thumbnail/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="afika-1" /> </p>
+<p align="left"> <img src="https://www.gifcen.com/wp-content/uploads/2023/06/madara-gif-8.gif" alt="...." /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afika-1" alt="afika-1" /></a> </p>
 
