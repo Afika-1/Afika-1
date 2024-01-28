@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://afika-shwashwa.web.app/)
 <h1 align="center">Hi 👋, I'm Afika Shwashwa</h1>
-<h3 align="center">A passionate Software Developer spcialising in  Frontend with a special interest in mobile app development</h3>
+<h3 align="center">A passionate Software Developer specialising in Frontend with a special interest in mobile app development</h3>
 
 <p align="left"> <img src="https://www.gifcen.com/wp-content/uploads/2023/06/madara-gif-8.gif" alt="...." /> </p>
 
