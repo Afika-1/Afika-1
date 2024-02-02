@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F863917141017382821%2F&psig=AOvVaw1NEIsAO2QcbspsfP7dBjTm&ust=1707000926387000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCJDK2pTgjYQDFQAAAAAdAAAAABCGAQ)](https://afika-shwashwa.web.app/)
+[![MasterHead](https://e0.pxfuel.com/wallpapers/738/566/desktop-wallpaper-artstation-rog-design-pixel-jeff-pixel-art-gif-pixel-art-pc.jpg)](https://afika-shwashwa.web.app/)
 <h1 align="center">Hi 👋, I'm Afika Shwashwa</h1>
 <h3 align="center">A passionate Software Developer specialising in Frontend with a special interest in mobile app development</h3>
 
