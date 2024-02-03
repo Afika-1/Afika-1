@@ -1,4 +1,4 @@
-[![MasterHead](https://e0.pxfuel.com/wallpapers/738/566/desktop-wallpaper-artstation-rog-design-pixel-jeff-pixel-art-gif-pixel-art-pc.jpg)](https://afika-shwashwa.web.app/)
+[![MasterHead](https://i.imgur.com/bShvgZI.gif)](https://afika-shwashwa.web.app/)
 <h1 align="center">Hi 👋, I'm Afika Shwashwa</h1>
 <h3 align="center">A passionate Software Developer specialising in Frontend with a special interest in mobile app development</h3>
 
