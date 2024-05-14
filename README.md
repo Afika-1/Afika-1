@@ -1,4 +1,3 @@
-..[![MasterHead](https://i.imgur.com/bShvgZI.gif)](https://afika-shwashwa.web.app/)
 
 <h1 align="center">Hi 👋, I'm Afika Shwashwa</h1>
 <h3 align="center">A passionate Software Developer specialising in Frontend with a special interest in mobile app development</h3>
