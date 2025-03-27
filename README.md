@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://afika-shwashwa.web.app/](https://afika-shwashwa.web.app/)
+- 👨‍💻 All of my projects are available at [https://afika-shwashwa.web.app/](https://afika-shwashwa-portfolio.web.app/)
 
 - 💬 Ask me about **Figma designs, React js, css, JavaScript ...**
 
